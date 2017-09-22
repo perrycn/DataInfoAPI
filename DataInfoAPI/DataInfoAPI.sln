@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataInfoAPI", "DataInfoAPI\DataInfoAPI.csproj", "{F789529F-8E91-4223-A1C3-D28A7EC4AB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataInfoAPI.Tests", "DataInfoAPI.Tests\DataInfoAPI.Tests.csproj", "{BB601D51-F423-43A5-9260-52EB84D954DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F789529F-8E91-4223-A1C3-D28A7EC4AB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F789529F-8E91-4223-A1C3-D28A7EC4AB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F789529F-8E91-4223-A1C3-D28A7EC4AB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F789529F-8E91-4223-A1C3-D28A7EC4AB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB601D51-F423-43A5-9260-52EB84D954DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB601D51-F423-43A5-9260-52EB84D954DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB601D51-F423-43A5-9260-52EB84D954DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB601D51-F423-43A5-9260-52EB84D954DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
